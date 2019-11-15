@@ -1,2 +1,2 @@
 # Screensavers
-Just a few screensaver I made at school
+Just a few screensavers I made at school
